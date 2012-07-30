@@ -1,0 +1,39 @@
+<project>
+ <properties autorotation="0" fps="60" scaleMode="3" iosDevice="0" xcodeVersion="0" packageName="com.yourdomain.yourapp" logicalHeight="800" logicalWidth="480" retinaDisplay="1" assetsOnly="0" orientation="0" architecture="1">
+  <imageScales/>
+ </properties>
+ <folder name="images">
+  <file source="images/accept_up.png"/>
+  <file source="images/accept_down.png"/>
+  <file source="images/restart.png"/>
+  <file source="images/draw_up.png"/>
+  <file source="images/draw_down.png"/>
+  <file source="images/join_up.png"/>
+  <file source="images/join_down.png"/>
+  <file source="images/back_up.png"/>
+  <file source="images/back_down.png"/>
+  <file source="images/about_up.png"/>
+  <file source="images/about_down.png"/>
+  <file source="images/start_up.png"/>
+  <file source="images/start_down.png"/>
+  <file source="images/gideros_mobile.png"/>
+ </folder>
+ <folder name="classes">
+  <file source="classes/Unite.lua"/>
+  <file source="classes/TextWrap.lua"/>
+  <file source="classes/scenemanager.lua"/>
+  <file source="classes/json.lua"/>
+  <file source="classes/gtween.lua"/>
+  <file source="classes/easing.lua"/>
+  <file source="classes/dataSaver.lua"/>
+  <file source="classes/button.lua"/>
+ </folder>
+ <file source="start.lua"/>
+ <file source="about.lua"/>
+ <file source="draw.lua"/>
+ <file source="new_server.lua"/>
+ <file source="join_server.lua"/>
+ <file source="C:/Program Files/Gideros/All Plugins/LuaSocket/source/socket.lua"/>
+ <file source="main.lua"/>
+ <file source="tahoma.ttf"/>
+</project>
